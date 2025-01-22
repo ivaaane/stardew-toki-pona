@@ -1,0 +1,22 @@
+{
+  "RandomNegativeItemNoun": "jaki",
+  "RandomPositiveAdjective_Child": "epiku",
+  "RandomPositiveAdjective_AdultMale": "wawa",
+  "RandomPositiveAdjective_AdultFemale": "suwi",
+  "RandomPositiveAdjective_PlaceOrEvent": "suwi",
+  "RandomDeliciousAdjective": "suwi",
+  "RandomDeliciousAdjective_Child": "suwi",
+  "RandomNegativeFoodAdjective_Child": "jaki#ike",
+  "RandomNegativeFoodAdjective_Polite": "...nasa",
+  "RandomNegativeFoodAdjective": "jaki#ike",
+  "RandomSlightlyPositiveFoodAdjective": "pona",
+  "ChildTerm_Male": "mije",
+  "ChildTerm_Female": "meli",
+  "Pronoun_Male": "ona",
+  "Pronoun_Female": "ona",
+  "QuestionDialogue_Yes": "lon",
+  "QuestionDialogue_No": "lon ala",
+  "GenericPlayerTerm": "jan",
+  "Possessive_Pronoun_Male": "ona",
+  "Possessive_Pronoun_Female": "ona"
+}

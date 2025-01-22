@@ -1,0 +1,11 @@
+{
+    "Name": "Toki Pona translation",
+    "Author": "sieni",
+    "Version": "1.0.0",
+    "Description": "A fan translation of the game in Toki Pona.",
+    "UniqueID": "sieni.tokipona",
+    "UpdateKeys": [],
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}

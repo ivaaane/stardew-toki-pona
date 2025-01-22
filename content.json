@@ -1,0 +1,61 @@
+{
+    "Format": "2.5.0",
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/AdditionalLanguages",
+            "Entries": {
+                "sieni.tokipona": {
+                    "ID": "sieni.tokipona",
+                    "LanguageCode": "tok",
+                    "ButtonTexture": "Mods/sieni.tokipona/Button",
+                    "UseLatinFont": true,
+                    "TimeFormat": "[HOURS_24_00]:[MINUTES]",
+                    "ClockTimeFormat": "[HOURS_24_00]:[MINUTES]",
+                    "ClockDateFormat": "[DAY_OF_WEEK] [DAY_OF_MONTH]"
+                }
+            }
+        },
+        {
+            "Action": "Load",
+            "Target": "Mods/sieni.tokipona/Button",
+            "FromFile": "assets/button.png"
+        },
+        {
+            "LogName": "Strings",
+            "Action": "Load",
+            "Target": "Strings/Weapons, Strings/SpecialOrderStrings, Strings/Objects, Strings/1_6_Strings, Strings/Buildings, Strings/EnchantmentNames, Strings/MovieConcessions, Strings/BundleNames, Strings/SimpleNonVillagerDialogues, Strings/FarmAnimals, Strings/Shirts, Strings/credits, Strings/UI, Strings/BigCraftables, Strings/animationDescriptions, Strings/Tools, Strings/Characters, Strings/Lexicon, Strings/StringsFromCSFiles, Strings/Locations, Strings/StringsFromMaps, Strings/Quests, Strings/MovieReactions, Strings/Pants, Strings/WorldMap, Strings/NPCNames, Strings/Furniture, Strings/Events, Strings/Movies, Strings/Notes, Strings/SpeechBubbles",
+            "FromFile": "assets/{{Target}}.json",
+            "When": {
+                "Language": "tok"
+            }
+        },
+        {
+            "LogName": "Dialogue",
+            "Action": "Load",
+            "Target": "Characters/Dialogue/MarriageDialogueKrobus, Characters/Dialogue/MarriageDialogueEmily, Characters/Dialogue/Jodi, Characters/Dialogue/Leah, Characters/Dialogue/Abigail, Characters/Dialogue/Jas, Characters/Dialogue/MarriageDialogueLeah, Characters/Dialogue/Gil, Characters/Dialogue/Robin, Characters/Dialogue/rainy, Characters/Dialogue/Emily, Characters/Dialogue/Harvey, Characters/Dialogue/Elliott, Characters/Dialogue/Linus, Characters/Dialogue/MarriageDialogueAbigail, Characters/Dialogue/Haley, Characters/Dialogue/Sandy, Characters/Dialogue/Penny, Characters/Dialogue/Dwarf, Characters/Dialogue/MarriageDialoguePenny, Characters/Dialogue/Marnie, Characters/Dialogue/Krobus, Characters/Dialogue/Lewis, Characters/Dialogue/Pierre, Characters/Dialogue/MarriageDialogueSebastian, Characters/Dialogue/MarriageDialogueShane, Characters/Dialogue/MarriageDialogueElliott, Characters/Dialogue/MarriageDialogueSam, Characters/Dialogue/Shane, Characters/Dialogue/Demetrius, Characters/Dialogue/Mister Qi, Characters/Dialogue/Gus, Characters/Dialogue/Wizard, Characters/Dialogue/MarriageDialogueHaley, Characters/Dialogue/Caroline, Characters/Dialogue/Willy, Characters/Dialogue/Evelyn, Characters/Dialogue/MarriageDialogue, Characters/Dialogue/Leo, Characters/Dialogue/MarriageDialogueAlex, Characters/Dialogue/Pam, Characters/Dialogue/Vincent, Characters/Dialogue/MarriageDialogueHarvey, Characters/Dialogue/Sebastian, Characters/Dialogue/Maru, Characters/Dialogue/Alex, Characters/Dialogue/Clint, Characters/Dialogue/George, Characters/Dialogue/Kent, Characters/Dialogue/LeoMainland, Characters/Dialogue/Sam, Characters/Dialogue/MarriageDialogueMaru",
+            "FromFile": "assets/{{Target}}.json",
+            "When": {
+                "Language": "tok"
+            }
+        },
+        {
+            "LogName": "Data",
+            "Action": "Load",
+            "Target": "Data/Weapons, Data/CraftingRecipes, Data/LocationContexts, Data/RandomBundles, Data/Objects, Data/AudioChanges, Data/SecretNotes, Data/PaintData, Data/EngagementDialogue, Data/Buildings, Data/MuseumRewards, Data/LostItemsShop, Data/MakeoverOutfits, Data/Bundles, Data/Monsters, Data/ConcessionTastes, Data/Pets, Data/CookingRecipes, Data/hats, Data/FarmAnimals, Data/Buffs, Data/AdditionalWallpaperFlooring, Data/IncomingPhoneCalls, Data/Mannequins, Data/Shops, Data/Shirts, Data/BigCraftables, Data/AdditionalLanguages, Data/animationDescriptions, Data/ExtraDialogue, Data/Tools, Data/Characters, Data/Crops, Data/Weddings, Data/HomeRenovations, Data/Machines, Data/SpecialOrders, Data/ChairTiles, Data/AdditionalFarms, Data/Minecarts, Data/FruitTrees, Data/Achievements, Data/Fish, Data/MoviesReactions, Data/Locations, Data/Concessions, Data/GarbageCans, Data/Quests, Data/mail, Data/FishPondData, Data/Powers, Data/Pants, Data/GiantCrops, Data/Boots, Data/WorldMap, Data/Furniture, Data/AquariumFish, Data/Trinkets, Data/MonsterSlayerQuests, Data/NPCGiftTastes, Data/TailoringRecipes, Data/Movies, Data/PassiveFestivals, Data/FloorsAndPaths, Data/HairData, Data/TriggerActions, Data/Fences, Data/JukeboxTracks, Data/WildTrees",
+            "FromFile": "assets/{{Target}}.json",
+            "When": {
+                "Language": "tok"
+            }
+        },
+        {
+            "LogName": "Minigames",
+            "Action": "Load",
+            "Target": "Minigames/Amuzio, Minigames/Clouds, Minigames/Darts, Minigames/fall_boatJourneyMap, Minigames/Intro, Minigames/jojacorps, Minigames/MaruComet, Minigames/MineCart, Minigames/spring_boatJourneyMap, Minigames/summer_boatJourneyMap, Minigames/TitleButtons, Minigames/treestrip, Minigames/winter_boatJourneyMap, Minigames/Xb1ProfileButton",
+            "FromFile": "assets/{{Target}}.png",
+            "When": {
+                "Language": "tok"
+            }
+        }
+    ]
+}
