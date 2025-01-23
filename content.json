@@ -49,6 +49,15 @@
             }
         },
         {
+            "LogName": "Events",
+            "Action": "Load",
+            "Target": "Data/Events/BusStop",
+            "FromFile": "assets/{{Target}}.json",
+            "When": {
+                "Language": "tok"
+            }
+        },
+        {
             "LogName": "Minigames",
             "Action": "Load",
             "Target": "Minigames/Intro, Minigames/jojacorps, Minigames/MineCart, Minigames/TitleButtons, Minigames/Xb1ProfileButton",

@@ -1,8 +1,8 @@
 # Stardew Valley toki pona translation
 
-This is a fan-made translation of Stardew Valley to toki pona. Still in very early development!
-
 ![](assets/button.png)
+
+This is a fan-made translation of Stardew Valley to toki pona. Still in very early development!
 
 ## Contributing
 
@@ -10,7 +10,7 @@ The projectis free for any tokiponists to help!
 
 * Of course, you are required to have familiarity speaking toki pona.
 
-* All the translations are directly written in JSON files.
+* All the translations are directly written in JSON files. Since the files are the same directly parsed by the game, there are certain sequences that must be respected; [this article](https://stardewvalleywiki.com/Modding:Dialogue) contains information about format.
 
 * You're empowered to translate several strings of text in a single commit, but they should all be related, like coming from the same file, game scene or character.
 
@@ -28,7 +28,7 @@ The structure of the project is based on Content Patcher. There might be issues 
 
 ## Installing
 
-You need to setup SMAPI and install Content Patcher to run this mod. Read [this guide](https://www.stardewvalleywiki.com/Modding:Player_Guide/Getting_Started). Then place the project folder in your system's `Mods` path.
+You need to setup SMAPI and [install Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915) to run this mod. Read [this guide](https://www.stardewvalleywiki.com/Modding:Player_Guide/Getting_Started) to get started with mods. When you're done, place the project folder in your system's `Mods` path. You can either download as a `.zip` file the repository or `git clone https://github.com/ivaaane/stardew-toki-pona`
 
 ## Contact
 
