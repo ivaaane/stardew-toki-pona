@@ -1,30 +1,24 @@
-# Stardew Valley toki pona translation
+# Stardew Valley translation into toki pona
 
 ![](assets/button.png)
 
-This is a fan-made translation of Stardew Valley to toki pona. Still in very early development!
+This is a fan-made translation mod of Stardew Valley to toki pona. It is still in very early development!
 
 ## Contributing
 
-The projectis free for any tokiponists to help!
+The project is open for any tokiponists to help! Please contribute by translating and proofreading strings. All the translations are directly written in JSON files. The formatting is explained in [this article](https://stardewvalleywiki.com/Modding:Dialogue) from the Stardew Valley Wiki.
 
-* Of course, you are required to have familiarity speaking toki pona.
+All feedback in the workflow and documentation is appreciated!
 
-* All the translations are directly written in JSON files. Since the files are the same directly parsed by the game, there are certain sequences that must be respected; [this article](https://stardewvalleywiki.com/Modding:Dialogue) contains information about format.
+### Language
 
-* You're empowered to translate several strings of text in a single commit, but they should all be related, like coming from the same file, game scene or character.
-
-* Only _nimi pu_ and _nimi ku suli_ are accepted, thought there may be exceptions in certain cases. Rare _nasins_ usage are free to be discussed in the issues.
-
-* All characters, places and objects names must be the same in all texts. If unsure, most (if not all) names are in `assets/Strings/`; for example, for the list of characters names check `assets/Strings/NPCNames.json`. If a name still hasn't been translated, feel free to do it yourself!
-
-* Proofreading is also needed. Feel free to change any text already translated.
-
-* When editing images, use the same font style and colors of the source.
+* Only [core and common words](https://sona.pona.la/wiki/Usage_categories) are accepted, thought there may be exceptions in certain cases. Please consider keeping to a widely understood style of speech. Language policy may be discussed in the issues.
+* The names for the characters, places and objects must be the consistent across all texts. If unsure, most (if not all) names are found in the `assets/Strings` directory; for example, for the list of characters names check `assets/Strings/NPCNames.json`.
+* When editing images, use the same font style and colors as the source.
 
 ### For programmers
 
-The structure of the project is based on Content Patcher. There might be issues with format or missing files that I have missed, or might cause the mod to break. If you detect flaws in the structure, please leave an issue or pull request.
+The structure of the project is based on Content Patcher. There might be issues with format or missing files that might cause the mod to break. If you detect flaws in the structure, please leave an issue or pull request.
 
 ## Installing
 
@@ -32,6 +26,4 @@ You need to setup SMAPI and [install Content Patcher](https://www.nexusmods.com/
 
 ## Contact
 
-Contact me on Discord (`@velho.sieni`) if needed.
-
-I am not a great project manager. All feedback in the workflow and documentation is appreciated!
+Contact me on Discord (`@velho.sieni`) if needed. I am not a great project manager. 
