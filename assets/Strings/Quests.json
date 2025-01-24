@@ -1,4 +1,10 @@
 {
+<<<<<<< HEAD
   "MessageFoundLostItem": "sina kama jo e {0}. o pana e ona tawa {1}.",
   "ObjectiveReturnToNPC": "o pana tawa {0}."
 }
+=======
+  "MessageFoundLostItem": "sina kama jo e {0}. o pana e ni tawa {1}.",
+  "ObjectiveReturnToNPC": "o pana e ni tawa {0}."
+}
+>>>>>>> 852144a (Translated quest strings)
