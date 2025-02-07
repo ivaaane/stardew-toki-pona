@@ -42,7 +42,7 @@
         {
             "LogName": "Data",
             "Action": "Load",
-            "Target": "Data/Weapons, Data/CraftingRecipes, Data/LocationContexts, Data/RandomBundles, Data/Objects, Data/AudioChanges, Data/SecretNotes, Data/PaintData, Data/EngagementDialogue, Data/Buildings, Data/MuseumRewards, Data/LostItemsShop, Data/MakeoverOutfits, Data/Bundles, Data/Monsters, Data/ConcessionTastes, Data/Pets, Data/CookingRecipes, Data/hats, Data/FarmAnimals, Data/Buffs, Data/AdditionalWallpaperFlooring, Data/IncomingPhoneCalls, Data/Mannequins, Data/Shops, Data/Shirts, Data/BigCraftables, Data/AdditionalLanguages, Data/animationDescriptions, Data/ExtraDialogue, Data/Tools, Data/Characters, Data/Crops, Data/Weddings, Data/HomeRenovations, Data/Machines, Data/SpecialOrders, Data/ChairTiles, Data/AdditionalFarms, Data/Minecarts, Data/FruitTrees, Data/Achievements, Data/Fish, Data/MoviesReactions, Data/Locations, Data/Concessions, Data/GarbageCans, Data/Quests, Data/mail, Data/FishPondData, Data/Powers, Data/Pants, Data/GiantCrops, Data/Boots, Data/WorldMap, Data/Furniture, Data/AquariumFish, Data/Trinkets, Data/MonsterSlayerQuests, Data/NPCGiftTastes, Data/TailoringRecipes, Data/Movies, Data/PassiveFestivals, Data/FloorsAndPaths, Data/HairData, Data/TriggerActions, Data/Fences, Data/JukeboxTracks, Data/WildTrees",
+            "Target": "Data/Weapons, Data/CraftingRecipes, Data/RandomBundles, Data/Objects, Data/SecretNotes, Data/EngagementDialogue, Data/Bundles, Data/Monsters, Data/CookingRecipes, Data/hats, Data/FarmAnimals, Data/Shops, Data/Shirts, Data/BigCraftables, Data/ExtraDialogue, Data/Tools, Data/Weddings, Data/SpecialOrders, Data/Achievements, Data/Fish, Data/MoviesReactions, Data/Concessions, Data/Quests, Data/mail, Data/Pants, Data/Boots, Data/WorldMap, Data/Furniture, Data/Trinkets, Data/NPCGiftTastes, Data/TailoringRecipes, Data/Movies, Data/TriggerActions, Data/Fences, Data/WildTrees",
             "FromFile": "assets/{{Target}}.json",
             "When": {
                 "Language": "tok"
@@ -51,7 +51,7 @@
         {
             "LogName": "Events",
             "Action": "Load",
-            "Target": "Data/Events/BusStop",
+            "Target": "Data/Events/BusStop, Data/Events/Town, Data/Events/AbandonedJojaMart, Data/Events/AnimalShop, Data/Events/ArchaeologyHouse, Data/Events/Backwoods, Data/Events/BathHouse_Pool, Data/Events/Beach, Data/Events/BoatTunnel",
             "FromFile": "assets/{{Target}}.json",
             "When": {
                 "Language": "tok"
