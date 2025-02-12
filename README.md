@@ -1,6 +1,6 @@
 # Stardew Valley translation into toki pona
 
-![](assets/button.png)
+![](screenshot.png)
 
 This is a fan-made translation mod of Stardew Valley to toki pona. It is still in very early development!
 
