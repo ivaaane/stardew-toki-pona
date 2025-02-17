@@ -69,7 +69,16 @@
         {
             "LogName": "LooseSprites",
             "Action": "Load",
-            "Target": "LooseSprites/Billboard, LooseSprites/birds, LooseSprites/boardGameBorder, LooseSprites/Book_Animation, LooseSprites/BundleSprites, LooseSprites/chatBox, LooseSprites/Cloudy_Ocean_BG_Night, LooseSprites/Cloudy_Ocean_BG, LooseSprites/Concessions, LooseSprites/ControllerMaps, LooseSprites/cowPhotos, LooseSprites/cowPhotosWinter, LooseSprites/CraneGame_international, LooseSprites/CraneGame, LooseSprites/Cursors_1_6, LooseSprites/Cursors2, LooseSprites/Cursors, LooseSprites/daybg, LooseSprites/DesertRacers, LooseSprites/dye_bench, LooseSprites/emojis, LooseSprites/EmoteMenu, LooseSprites/farm_ranching_icon, LooseSprites/Farm_ranching_map_fall, LooseSprites/Farm_ranching_map, LooseSprites/Farm_ranching_map_summer, LooseSprites/Farm_ranching_map_winter, LooseSprites/Fence1, LooseSprites/Fence2, LooseSprites/Fence3, LooseSprites/Fence5, LooseSprites/FieldOfficeDonationMenu, LooseSprites/font_bold, LooseSprites/font_colored, LooseSprites/ForgeMenu, LooseSprites/GemBird, LooseSprites/Giftbox, LooseSprites/JojaCDForm, LooseSprites/JunimoNoteMobile, LooseSprites/JunimoNoteMobile_raccoon, LooseSprites/JunimoNote, LooseSprites/LanguageButtons, LooseSprites/letterBG, LooseSprites/LightRays, LooseSprites/logo, LooseSprites/map_fall, LooseSprites/map_island, LooseSprites/map, LooseSprites/map_summer, LooseSprites/map_winter, LooseSprites/marnie_winter_dance, LooseSprites/MobileAtlas_manually_made, LooseSprites/MobileAtlas_tencent, LooseSprites/Movies, LooseSprites/mute_voice_icon, LooseSprites/nightbg, LooseSprites/ParrotPlatform, LooseSprites/parrots, LooseSprites/PlayerStatusList, LooseSprites/PrizeTicketMenu, LooseSprites/raccoon_bundle_menu, LooseSprites/raccoon_circle_cutout, LooseSprites/SandDuggy, LooseSprites/SeaMonster, LooseSprites/shadow, LooseSprites/SpecialOrdersBoard, LooseSprites/squidFestLetterBG, LooseSprites/stardewPanorama, LooseSprites/steamAnimation, LooseSprites/SuspensionBridge, LooseSprites/swimShadow, LooseSprites/tailoring, LooseSprites/temporary_sprites_1, LooseSprites/terraria_cat, LooseSprites/textBox, LooseSprites/troutDerbyLetterBG, LooseSprites/WillysBoat, LooseSprites/yellowLettersLogo",
+            "Target": "LooseSprites/Billboard, LooseSprites/ControllerMaps, LooseSprites/CraneGame, LooseSprites/CraneGame_international, LooseSprites/Cursors_1_6, LooseSprites/Cursors2, LooseSprites/Cursors, LooseSprites/EmoteMenu, LooseSprites/JojaCDForm, LooseSprites/JunimoNote, LooseSprites/logo, LooseSprites/MobileAtlas_manually_made, LooseSprites/MobileAtlas_tencent, LooseSprites/Movies, LooseSprites/PlayerStatusList, LooseSprites/raccoon_bundle_menu",
+            "FromFile": "assets/{{Target}}.png",
+            "When": {
+                "Language": "tok"
+            }
+        },
+        {
+            "LogName": "Maps",
+            "Action": "Load",
+            "Target": ", Maps/bathhouse_tiles, Maps/coopTiles, Maps/desert_festival_tilesheet_text, Maps/DesertTiles, Maps/fall_beach, Maps/fall_outdoorsTileSheet, Maps/fall_town, Maps/Festivals, Maps/FishingDerbyTiles, Maps/MovieTheaterJoja_TileSheet, Maps/samshowtiles, Maps/spring_beach, Maps/springobjects, Maps/spring_outdoorsTileSheet, Maps/spring_town, Maps/stadium_tiles, Maps/summer_beach, Maps/summer_outdoorsTileSheet, Maps/summer_town, Maps/townInterior, Maps/winter_beach, Maps/winter_outdoorsTileSheet, Maps/winter_town",
             "FromFile": "assets/{{Target}}.png",
             "When": {
                 "Language": "tok"

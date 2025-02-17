@@ -101,7 +101,7 @@
   "Collections_Description_BiggestCatch": "kala pi suli nanpa wan li suli {0}",
   "Collections_Description_MineralsFound": "mi lukin e ni lon tenpo {0}",
   "Collections_Description_NumberShipped": "mi esun e ni lon tenpo {0}",
-  "QuestButton_Hover": "lipu #({0})",
+  "QuestButton_Hover": "lipu ({0})",
   "QuestButton_Hover_Console": "lipu",
   "ZoomInButton_Hover": "o suli e sitelen",
   "ZoomOutButton_Hover": "o lili e sitelen",
